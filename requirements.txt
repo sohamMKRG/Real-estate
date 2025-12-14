@@ -1,10 +1,6 @@
 streamlit
 pandas
 numpy
-scikit-learn
+scikit-learn==1.4.2
 matplotlib
 joblib
-mlflow
-seaborn
-xgboost          # if you want to try advanced models
-plotly           # for interactive charts in Streamlit
