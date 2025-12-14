@@ -1,0 +1,14 @@
+# Large datasets
+data/india_housing_prices.csv
+data/processed_housing.csv
+
+# MLflow artifacts
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

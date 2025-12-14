@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+mlflow
+seaborn
+xgboost          # if you want to try advanced models
+plotly           # for interactive charts in Streamlit
